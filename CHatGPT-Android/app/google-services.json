@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377549332267",
+    "project_id": "chatgpt-40b83",
+    "storage_bucket": "chatgpt-40b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377549332267:android:6130cdc36e96cdad282f6e",
+        "android_client_info": {
+          "package_name": "com.alcalasoft.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377549332267-6vge5rqk5vvrivv8an2ogc56tfes8erq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhZvia8azHR8Iek4GgjRo4UA0EzTBKC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377549332267-6vge5rqk5vvrivv8an2ogc56tfes8erq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
