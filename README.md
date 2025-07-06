@@ -3,6 +3,9 @@ TODO: Give a short introduction of your project. Let this section explain the ob
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+0.  python -m venv nombre_del_entorno
+0.1.  .\nombre_del_entorno\Scripts\activate
+0.2  source nombre_del_entorno/bin/activate
 1.	Installation process
 2.	Software dependencies
 3.	Latest releases
